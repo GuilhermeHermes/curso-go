@@ -1,0 +1,32 @@
+[
+  {
+    "categorias": [
+      "eletrônicos",
+      "computadores"
+    ],
+    "disponivel": true,
+    "id": 1,
+    "nome": "Laptop",
+    "preco": 3500.99
+  },
+  {
+    "categorias": [
+      "eletrônicos",
+      "celulares"
+    ],
+    "disponivel": true,
+    "id": 2,
+    "nome": "Smartphone",
+    "preco": 2100.5
+  },
+  {
+    "categorias": [
+      "eletrônicos",
+      "acessórios"
+    ],
+    "disponivel": false,
+    "id": 3,
+    "nome": "Headphone",
+    "preco": 450.75
+  }
+]
